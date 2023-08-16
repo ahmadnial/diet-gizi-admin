@@ -30,6 +30,7 @@
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
   <!-- bootstrap wysihtml5 - text editor -->
   <link rel="stylesheet" href=" {{ asset('src/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css') }}">
+  
 
 
 </head>
@@ -420,6 +421,7 @@
 <script src="{{ asset('src/plugins/jQuery/jQuery-2.2.0.min.js') }}"></script>
 <!-- jQuery UI 1.11.4 --> 
 <script src="{{ asset('src/dist/js/jquery.min.js') }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <!-- Bootstrap 3.3.6 -->
 <script src="{{ asset('src/bootstrap/js/bootstrap.min.js') }}"></script>
