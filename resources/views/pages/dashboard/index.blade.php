@@ -9,7 +9,7 @@
             </div>
             <!-- /.box-header -->
             <div class="box-body">
-              <table id="table2" class="table table-bordered table-hover">
+              <table id="table1" class="table table-bordered table-hover">
                 <thead class="bg-purple">
                     <tr>
                         <th>No</th>
